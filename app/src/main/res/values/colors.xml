@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titan_primary">#FF1B6EF3</color>
+    <color name="titan_on_primary">#FFFFFFFF</color>
+    <color name="titan_primary_container">#FFD8E2FF</color>
+    <color name="titan_secondary">#FF575E71</color>
+    <color name="titan_background">#FFFBF8FF</color>
+    <color name="titan_surface">#FFFBF8FF</color>
+    <color name="titan_error">#FFBA1A1A</color>
+    <color name="titan_editor_background_dark">#FF1E1E1E</color>
+    <color name="titan_editor_background_light">#FFFFFFFF</color>
+    <color name="titan_terminal_background">#FF1E1E1E</color>
+    <color name="titan_syntax_keyword">#FFCC7832</color>
+    <color name="titan_syntax_string">#FF6A8759</color>
+    <color name="titan_syntax_comment">#FF808080</color>
+    <color name="titan_syntax_number">#FF6897BB</color>
+    <color name="titan_syntax_function">#FFFFC66D</color>
+    <color name="titan_syntax_type">#FFA9B7C6</color>
+    <color name="titan_git_added">#FF4CAF50</color>
+    <color name="titan_git_modified">#FFFF9800</color>
+    <color name="titan_git_deleted">#FFF44336</color>
+    <color name="titan_status_success">#FF4CAF50</color>
+    <color name="titan_status_warning">#FFFF9800</color>
+    <color name="titan_status_error">#FFF44336</color>
+    <color name="titan_status_info">#FF2196F3</color>
+</resources>

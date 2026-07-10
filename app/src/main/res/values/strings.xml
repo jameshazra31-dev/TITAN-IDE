@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Titan IDE</string>
+    <string name="title_home">Home</string>
+    <string name="title_projects">Projects</string>
+    <string name="title_files">Files</string>
+    <string name="title_ai">AI</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_editor">Editor</string>
+    <string name="title_terminal">Terminal</string>
+    <string name="title_git">Git</string>
+    <string name="title_build">Build</string>
+    <string name="title_logcat">Logcat</string>
+    <string name="title_debugger">Debugger</string>
+    <string name="title_apk_tools">APK Tools</string>
+    <string name="title_xml_designer">XML Designer</string>
+    <string name="title_plugins">Plugins</string>
+    <string name="title_tools">Tools</string>
+    <string name="search_files">Search files…</string>
+    <string name="create_project">Create Project</string>
+    <string name="open_project">Open Project</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="pin">Pin</string>
+    <string name="unpin">Unpin</string>
+    <string name="no_projects">No projects yet</string>
+    <string name="no_projects_description">Create a new project or import an existing one</string>
+    <string name="build_successful">BUILD SUCCESSFUL</string>
+    <string name="build_failed">BUILD FAILED</string>
+    <string name="file_saved">File saved</string>
+    <string name="project_created">Project created successfully</string>
+    <string name="project_deleted">Project deleted</string>
+    <string name="ai_no_provider">No AI provider configured. Go to Settings to add one.</string>
+    <string name="terminal_welcome">Welcome to Titan IDE Terminal</string>
+    <string name="permission_required">Permission required to access storage</string>
+</resources>
